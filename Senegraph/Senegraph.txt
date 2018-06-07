@@ -1,0 +1,1 @@
+This short program accept input for number of samples and value of each sample. Then it generates the graphs.
