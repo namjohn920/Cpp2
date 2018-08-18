@@ -1,0 +1,1 @@
+to code a class definition with private data members and public member functions and code the logic for the member functions
