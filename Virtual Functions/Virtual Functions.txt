@@ -1,0 +1,1 @@
+to implement an abstract definition of behavior for a specific type
