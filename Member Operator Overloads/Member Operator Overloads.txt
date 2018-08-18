@@ -1,0 +1,1 @@
+enable expression building for a class type
